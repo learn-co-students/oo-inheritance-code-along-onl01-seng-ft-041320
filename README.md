@@ -1,3 +1,4 @@
+
 # Code Along: An Intro to Inheritance
 
 ## Objectives
